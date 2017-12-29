@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f54d23c8-3658-48c3-8038-dd3a8089888e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/learning_log/settings.py" afterPath="$PROJECT_DIR$/learning_log/settings.py" />
+      <change beforePath="$PROJECT_DIR$/learning_logs/views.py" afterPath="$PROJECT_DIR$/learning_logs/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,12 +13,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learning_log/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="123" column="33" lean-forward="false" selection-start-line="123" selection-start-column="33" selection-end-line="123" selection-end-column="33" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learning_logs/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="24" column="37" lean-forward="false" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+              <folding>
+                <element signature="e#2#55#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -61,16 +73,6 @@
               <folding>
                 <element signature="e#228#237#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/users/templates/users/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -144,7 +146,6 @@
         <option value="$PROJECT_DIR$/users/views.py" />
         <option value="$PROJECT_DIR$/users/templates/users/register.html" />
         <option value="$PROJECT_DIR$/learning_logs/models.py" />
-        <option value="$PROJECT_DIR$/learning_logs/views.py" />
         <option value="$PROJECT_DIR$/learning_logs/templates/learning_logs/base.html" />
         <option value="$PROJECT_DIR$/users/templates/users/login.html" />
         <option value="$PROJECT_DIR$/learning_logs/templates/learning_logs/new_topic.html" />
@@ -161,6 +162,7 @@
         <option value="$PROJECT_DIR$/learning_log/templates/404.html" />
         <option value="$PROJECT_DIR$/learning_log/templates/500.html" />
         <option value="$PROJECT_DIR$/learning_log/settings.py" />
+        <option value="$PROJECT_DIR$/learning_logs/views.py" />
       </list>
     </option>
   </component>
@@ -273,6 +275,11 @@
               <item name="learning_log" type="cbb8eebc:String" user="learning_log" />
               <item name="learning_log" type="cbb8eebc:String" user="learning_log" />
               <item name="templates" type="cbb8eebc:String" user="templates" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="learning_log" type="cbb8eebc:String" user="learning_log" />
+              <item name="learning_logs" type="cbb8eebc:String" user="learning_logs" />
             </path>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
@@ -506,14 +513,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning_logs/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-383">
-          <caret line="3" column="53" lean-forward="false" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/users/templates/users/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -656,6 +655,16 @@
         <state relative-caret-position="150">
           <caret line="123" column="33" lean-forward="false" selection-start-line="123" selection-start-column="33" selection-end-line="123" selection-end-column="33" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_logs/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="24" column="37" lean-forward="false" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+          <folding>
+            <element signature="e#2#55#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
